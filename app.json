@@ -2,7 +2,9 @@
   "expo": {
     "name": "a-mobile-list",
     "slug": "a-mobile-list",
-    "platforms": ["android"],
+    "platforms": [
+      "android"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.anonymous.amobilelist"
     },
     "web": {
       "favicon": "./assets/favicon.png"
